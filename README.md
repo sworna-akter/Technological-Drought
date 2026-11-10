@@ -42,7 +42,7 @@ Mondol, M. A. H., Logna, H. R., Akter, S., et al. (2026).
 
 *Water Scarcity and Drought*, 1(1), 5.
 
-[Read the published article](https://doi.org/10.3390/)
+[Read the published article](https://www.researchgate.net/publication/404720169_Underlying_Dimensions_and_Determinants_of_Technological_Drought_in_Relatively_Uplifted_Regions_of_Bangladesh)
 
 ## Data Availability
 
